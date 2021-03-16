@@ -1,0 +1,9 @@
+br\com\desafiojavaspringboot\controller\form\UserFIlter.class
+br\com\desafiojavaspringboot\conf\ErrorHandler.class
+br\com\desafiojavaspringboot\conf\HandlerDto.class
+br\com\desafiojavaspringboot\controller\form\ProductForm.class
+br\com\desafiojavaspringboot\DesafioApplication.class
+br\com\desafiojavaspringboot\repository\ProductRepository.class
+br\com\desafiojavaspringboot\controller\dto\ProductDto.class
+br\com\desafiojavaspringboot\model\Product.class
+br\com\desafiojavaspringboot\controller\ProductController.class
